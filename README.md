@@ -1,0 +1,2 @@
+# MyBlog
+Static web page.
